@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApp w7 install py sec tools", "PythonApp w7 install py sec tools\PythonApp w7 install py sec tools.pyproj", "{565DB67F-D288-44E8-9B26-A315C879C94E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{565DB67F-D288-44E8-9B26-A315C879C94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565DB67F-D288-44E8-9B26-A315C879C94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8E5F53B-E17C-436A-93A3-96DE29DE6DCD}
+	EndGlobalSection
+EndGlobal
